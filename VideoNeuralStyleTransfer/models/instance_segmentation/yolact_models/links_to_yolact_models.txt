@@ -1,0 +1,2 @@
+The models for yolact can be found here, https://github.com/dbolya/yolact#evaluation
+Download those to this directory, warning they are very large models

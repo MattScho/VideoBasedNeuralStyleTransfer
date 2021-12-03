@@ -1,0 +1,2 @@
+Link to COCO 2014 training dataset:
+http://images.cocodataset.org/zips/train2014.zip

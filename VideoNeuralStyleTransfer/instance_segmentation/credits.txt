@@ -1,0 +1,2 @@
+This module instance_segmentation is largely content from https://github.com/dbolya/yolact with some additional edits and configuration changes.
+image_segmenter.py is original though contains functions adapted from the aforementioned project.

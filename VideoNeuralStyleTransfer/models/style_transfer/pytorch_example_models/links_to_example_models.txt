@@ -1,0 +1,2 @@
+The pre-trained pytorch style models can be downloaded from here:
+https://www.dropbox.com/s/lrvwfehqdcxoza8/saved_models.zip?dl=0
