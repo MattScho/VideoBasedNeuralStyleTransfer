@@ -1,4 +1,4 @@
-#Video Neural Style Transfer with Instance Segmentation
+# Video Neural Style Transfer with Instance Segmentation
 
 This project combines the cutting edge advances in computer vision of instance segmentation and neural style transfer
 to generate artificial intelligence based artistic videos.
