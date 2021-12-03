@@ -53,10 +53,16 @@ prototype masks are multiplied together to generate a final output mask.
 
 ## References
 Gatys, L. A., Ecker, A. S., & Bethge, M. (2015). A Neural Algorithm of Artistic Style. CoRR, abs/1508.06576. From http://arxiv.org/abs/1508.06576
+
 Ruder, M., Dosovitskiy, A., & Brox, T. (2016). Artistic style transfer for videos. CoRR, abs/1604.08610. From http://arxiv.org/abs/1604.08610
+
 Johnson J., Alahi A., Fei-Fei L. (2016). Perceptual Losses for Real-Time Style Transfer and Super-Resolution, abs/1603.08155. From https://arxiv.org/pdf/1603.08155.pdf
+
 Bolya D., Zhou C., Xiao F., & Lee Y. (2019). YOLACT: Real-time Instance Segmentation. 
     See https://github.com/dbolya/yolact
+
 Image segmentation - Tensorflow Core. TensorFlow. (n.d.). Retrieved November 7, 2021, from ttps://www.tensorflow.org/tutorials/images/segmentation.
+
 VGG16 – Convolutional Network for Classification and Detection. (November 20, 2018). Retrieved November 20, 2021, from https://neurohive.io/en/popular-networks/vgg16/.
+
 fast-neural-style. (n.d.). Retrieved November 23, 2021, from https://github.com/pytorch/examples/tree/master/fast_neural_style.
