@@ -4,7 +4,8 @@ This project combines the cutting edge advances in computer vision of instance s
 to generate artificial intelligence based artistic videos.
 
 See this link for example output videos:
-https://drive.google.com/drive/folders/1Vk9r2kuplR8nkkL-MWOoVvAnHk-PK4C-?usp=sharing
+
+
 ## Installation
 I have provided a requirements.txt file for easy installation using the command:
 pip install -r requirements.txt.
