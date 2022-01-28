@@ -4,6 +4,8 @@ This project combines the cutting edge advances in computer vision of instance s
 to generate artificial intelligence based artistic videos.
 
 See this link for example output videos:
+https://drive.google.com/file/d/1DkpxvLrBxeHmlaYX7nGgOzN8muv2YQg_/view?usp=sharing
+
 https://drive.google.com/drive/folders/1Vk9r2kuplR8nkkL-MWOoVvAnHk-PK4C-?usp=sharing
 
 ## Installation
